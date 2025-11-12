@@ -165,7 +165,8 @@ const hacker = {
 
 ### 🌟 **KEEP HACKING. KEEP BUILDING. KEEP SHIPPING.** 🌟
 
-![Visitor Count](https://profile-counter.glitch.me/skrrishal/count.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=skrrishal&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS)
+
 
 **⚠️ WARNING: Highly addicted to solving complex problems**
 
