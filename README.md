@@ -7,17 +7,9 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&width=800&height=100&lines=┌──(SKRRISHAL㉿parrot)-[~];└─$+whoami;Cybersecurity+Enthusiast+%7C+Aspiring+Security+Analyst;Passionate+about+Ethical+Hacking+%26+Network+Security)
 
-```ascii
-╔══════════════════════════════════════════════════════════════╗
-║  ███████╗██╗   ██╗███████╗████████╗███████╗███╗   ███╗     ║
-║  ██╔════╝╚██╗ ██╔╝██╔════╝╚══██╔══╝██╔════╝████╗ ████║     ║
-║  ███████╗ ╚████╔╝ ███████╗   ██║   █████╗  ██╔████╔██║     ║
-║  ╚════██║  ╚██╔╝  ╚════██║   ██║   ██╔══╝  ██║╚██╔╝██║     ║
-║  ███████║   ██║   ███████║   ██║   ███████╗██║ ╚═╝ ██║     ║
-║  ╚══════╝   ╚═╝   ╚══════╝   ╚═╝   ╚══════╝╚═╝     ╚═╝     ║
-║                    ACCESS GRANTED                            ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=SYSTEM%20ACCESS&fontSize=60&fontColor=00FF41&animation=twinkling&fontAlignY=35&desc=Security%20Researcher%20&descSize=20&descAlignY=55"/>
+
+![Animated Terminal](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&random=false&width=800&height=150&lines=%E2%9A%A1+INITIALIZING+SYSTEMS...;%F0%9F%94%93+BYPASSING+FIREWALL...;%E2%9C%85+ACCESS+GRANTED!;%F0%9F%92%BB+WELCOME+TO+THE+DARK+WORLD)
 
 </div>
 
@@ -26,14 +18,17 @@
 ## 🎯 CURRENT MISSION OBJECTIVES
 
 ```javascript
-const hacker = {
-    code: ["JavaScript", "Python", "C++", "Java", "Go"],
-    tools: ["React", "Node.js", "Docker", "Kubernetes", "AWS"],
+const HACKER = {
+    currentObjective:"Cryptography Algorithms Implementation"
+    code: ["Python", "JavaScript", "C++", "C", "Bash Script"],
+    tools: ["Python", "PyCrypto", "OpenSSL"],
     architecture: ["Microservices", "Event-Driven", "Serverless"],
-    currentFocus: "Building secure & scalable systems",
+    currentFocus: "Cryptography fundamentals, Building secure & scalable systems",
     challenge: "Breaking through complexity, one commit at a time"
 }
 ```
+
+![ACCESS GRANTED](/gifs/access_granted.gif)
 
 ---
 
@@ -43,21 +38,21 @@ const hacker = {
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 ### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -88,7 +83,9 @@ const hacker = {
 ## 📊 SYSTEM STATISTICS
 
 <div align="center">
-  
+
+![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=skrrishal&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=skrrishal&theme=dark&hide_border=true&background=0d1117&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakLabel=00ff00)
@@ -101,14 +98,11 @@ const hacker = {
 
 ## 🔥 RECENT EXPLOITS
 
-```bash
-> Initializing activity stream...
-> Fetching latest commits...
-> Status: ONLINE
-```
+<div align="center">
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%3E+Initializing+activity+stream...;%3E+Fetching+latest+commits...;%3E+Analyzing+code+patterns...;%3E+Status%3A+ONLINE+%E2%9C%85)
+
+</div>
 
 ---
 
@@ -136,8 +130,8 @@ const hacker = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-rathod-7112a2310/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sagarnira17@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOUR_SERVER)
 
 </div>
@@ -156,14 +150,7 @@ const hacker = {
 
 <div align="center">
 
-```ascii
-┌───────────────────────────────────────────┐
-│  "The best way to predict the future is   │
-│   to invent it." - Alan Kay               │
-└───────────────────────────────────────────┘
-```
-
-### 🌟 **KEEP HACKING. KEEP BUILDING. KEEP SHIPPING.** 🌟
+![Animated Text](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%E2%9A%A1+KEEP+HACKING;%F0%9F%92%BB+KEEP+BUILDING;%F0%9F%9A%80+KEEP+SHIPPING;%F0%9F%94%90+STAY+CURIOUS)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=skrrishal&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS)
 
@@ -175,5 +162,5 @@ const hacker = {
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=20&fontColor=fff&animation=twinkling"/>
 </div>
